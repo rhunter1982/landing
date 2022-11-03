@@ -1,0 +1,15 @@
+.banner h1, .banner p {
+  color: white;
+}
+
+.container {
+  width: 900px;
+  margin: auto ;
+}
+
+.banner {
+  padding: 200px 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
